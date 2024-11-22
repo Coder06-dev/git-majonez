@@ -1,0 +1,69 @@
+  279  mkdir git-majonez
+  280  cd git-majonez/
+  281  git init
+  282  touch main.cpp
+  283  nano main.cpp 
+  284  git status
+  285  git diff
+  286  cat main.cpp 
+  287  git add main.cpp 
+  288  git commit -m"Initial commit"
+  289  nano main.cpp 
+  290  git status
+  291  git diff
+  292  git add main.cpp 
+  293  git commit -m"Farewell changed"
+  294  git remote add origin https://github.com/Coder06-dev/git-majonez.git
+  295  git push -u origin master
+  296  git remote add origin https://github.com/Coder06-dev/git-majonez.git
+  297  git push -u origin master
+  298  git config user.name
+  299  git config
+  300  git config --local -l
+  301  git status
+  302  git config user.email 
+  303  git config --global user.email gawkinga06@gmail.com
+  304  git config user.name
+  305  git remote add origin https://github.com/Coder06-dev/git-majonez.git
+  306  git push -u origin master
+  307  git remote add origin https://github.com/Coder06-dev/git-majonez.git
+  308  git push -u origin master
+  309  git status
+  310  git checkout -b cs
+  311  git log
+  312  cat main.cpp 
+  313  git reset HEAD^
+  314  git lig
+  315  git log
+  316  cat main.cpp 
+  317  git status
+  318  git diff
+  319  git log
+  320  nano main.cpp 
+  321  git branch
+  322  git status
+  323  git diff
+  324  git add main.cpp 
+  325  git commit -m"Greetings"
+  326  git log
+  327  git push origin cs
+  328  git checkout master
+  329  git branch
+  330  git merge cs
+  331  nano main.cpp 
+  332  cat main.cpp 
+  333  git status
+  334  history
+  335  git status
+  336  git diff
+  337  git status
+  338  git commit
+  339  git add main.cpp 
+  340  git commit
+  341  git branch
+  342  history
+  343  history | tail -n 64 > history.txt
+  344  cat history.txt 
+  345  history | tail -n 66 > history.txt
+  346  cat history.txt 
+  347  history | tail -n 69 > history.txt
